@@ -1,4 +1,4 @@
-# BigDataChallenge19
+# Big Data Challenge 19
 The Winning Solution for the Finals of Big Data Challenge powered by HSBC under Shaastra 2019.
 
 ### Problem Statement:
