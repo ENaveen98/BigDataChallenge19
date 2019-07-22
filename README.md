@@ -1,5 +1,5 @@
 # BigDataChallenge19
-The Winning Solutin for Big Data Challenge powered by HSBC under Shaastra 2019.
+The Winning Solution for the Finals of Big Data Challenge powered by HSBC under Shaastra 2019.
 
 Problem Statement:
 The aim of the problem is to develop a forecasting model to predict a stock's short-term price
