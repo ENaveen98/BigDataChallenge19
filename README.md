@@ -15,6 +15,11 @@ evolution of the hypothetical stock.
   <img src="Images/Algo%20Trading.jpg">
 </p>
 
+### Dataset Description
+<p align="center">
+  <img src="Images/Dataset%20Format.png">
+</p>
+
 ### Built With
 
 * [Python 3.6](https://www.python.org/) - The programming language used.
@@ -90,6 +95,11 @@ over 7,000 predictions with a better RMS error now.
 regions, but because of the limited number of days of ‘IN’ data available it may turn out to be a case
 of overfitting or a bad practice even though it might reduce RMS error.
   * So we decided to finish our entire prediction model here.
+  
+### Relevant Files
+[Model - Jupyter Notebook](Model.ipynb)
+
+[Final Round Presentation Slides](Big%20Data%20Challenge%202019%20Presentation.pptx)
 
 ### Description:
 An order driven market is a financial market where all buyers and sellers display the prices at
