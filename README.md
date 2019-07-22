@@ -2,6 +2,16 @@
 The Winning Solutin for Big Data Challenge powered by HSBC under Shaastra 2019.
 
 Problem Statement:
+The aim of the problem is to develop a forecasting model to predict a stock's short-term price
+movement. The use of such prediction models is widely prevalent in algorithmic trading. Algorithmic
+trading, sometimes referred to as high-frequency trading in specific circumstances, is the use of
+automated systems to identify true (money making) signals among massive amounts of data that
+capture the underlying stock dynamics. These models can be leveraged to develop profitable trading
+strategies (akin to hedge funds) to help investors/traders achieve better returns. Contestants are
+expected and encouraged to think of empirical models/heuristics in order to better predict the price
+evolution of the hypothetical stock.
+
+Description:
 An order driven market is a financial market where all buyers and sellers display the prices at
 which they wish to buy or sell a particular security, as well as the amounts of the security desired
 to be bought or sold. In these markets, participants may submit limit orders or market orders.
@@ -26,4 +36,15 @@ of trades and quotes. A quote event occurs whenever the best bid or the ask pric
 trade event takes place when shares are bought or sold.
 
 The aim of this competition is to determine the relationship between recent past order book
-events and future stock price for 30 seconds time-horizons. 
+events and future stock price for 30 seconds time-horizons. Few factors that are explored in the
+literature to predict price movements:
+• Order arrival rate
+• Bid-ask spread
+• Order book imbalance
+• Trade volume @ Bid price vs Trade volume @ Ask price
+Certain factors, such as current order book imbalance, tend to have good predictive power for
+very short-time time-horizons (under 10-20 seconds), however other factors might be important
+for time-horizons of more than a minute.
+Equity markets are very fast and it is important to understand that multiple high-frequency events
+can occur in the same milliseconds. Analysing and understanding the data is critical before
+applying machine learning models.
