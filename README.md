@@ -99,7 +99,7 @@ of overfitting or a bad practice even though it might reduce RMS error.
 ### Relevant Files
 [Model - Jupyter Notebook](Model.ipynb)
 
-[Final Round Presentation Slides](Big%20Data%20Challenge%202019%20Presentation.pptx)
+[Final Round Presentation Slides](Big%20Data%20Challenge%202019%20Presentation.pdf)
 
 ### Description:
 An order driven market is a financial market where all buyers and sellers display the prices at
