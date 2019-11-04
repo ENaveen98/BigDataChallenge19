@@ -25,10 +25,10 @@ evolution of the hypothetical stock.
 * [Python 3.6](https://www.python.org/) - The programming language used.
 * [Jupyter Notebook](https://jupyter.org/) - Integrated Development Environment used.
 * [pandas](https://pandas.pydata.org/) - Library to load training/test data as csv files.
-* [matplotlib]() - Library to create Visualizations to analyse the data.
-* [numpy]() - Library used to perform a wide range of Mathematical operations.
-* [scikit-learn]() - Library used to build and train the framework of the overall predictive model.
-* [pickle]() - Library used to save the trained model for reusing purposes.
+* [matplotlib](https://matplotlib.org/) - Library to create Visualizations to analyse the data.
+* [numpy](https://numpy.org/) - Library used to perform a wide range of Mathematical operations.
+* [scikit-learn](https://scikit-learn.org/stable/) - Library used to build and train the framework of the overall predictive model.
+* [pickle](https://docs.python.org/3/library/pickle.html) - Library used to save the trained model for reusing purposes.
 
 ### Getting Started
 * Step - 1 : Features Engineering (#5th Step block in ipython notebook)
